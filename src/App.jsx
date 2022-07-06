@@ -12,6 +12,7 @@ function App() {
     const eliminarPaciente = (id) => {
       //buscamos el paciente por id
       const pacientesActualizados = pacientes.filter( paciente => paciente.id !== id);
+      //actualizamos la lista de pacientes sin el eliminado
       setPacientes(pacientesActualizados);
     }
 
