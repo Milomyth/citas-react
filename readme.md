@@ -26,5 +26,5 @@ Para correr el proyecto en local usar `npm run dev` tambien puede testearse en t
 Para construir el proyecto y subirlo a nuestro servidor usar `npm run build`
 
 ## Preview del proyecto
-[Preview Citas Veterinaria](https://superlative-halva-959ce0 "Citas Veterinaria")
+[Preview Citas Veterinaria](https://superlative-halva-959ce0.netlify.app/ "Citas Veterinaria")
 
